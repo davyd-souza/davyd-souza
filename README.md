@@ -1,5 +1,3 @@
-<!-- <h1 align="center">Hello There ⭐🧔⚔️, I'm Davyd Souza</h1>
-<h3 align="center">A passionate fullstack developer from Brazil. Currently studying at Anhembi Morumbi. I have a background on: Angular, Bootstrap, JavaScript, TypeScript, NodeJS, Express and MongoDB</h3> -->
 <img src="https://bipedepop.files.wordpress.com/2018/01/1af97ee2-b2ae-47fe-a537-baf665fe1013.gif">
 
 <h2 align=""> Hi, I'm Davyd Souza! <img src="https://c.tenor.com/WX8OXgN5VpMAAAAj/waving-wave-hello.gif" width="45"></h2>
@@ -26,13 +24,13 @@ const dei = {
   personal: {
 				game: "Dungens and Dragons",
 				music: "Folk/Acoustic",
-				food: "Sushi"
+				food: "Sushi",
 				drink: "Coffee"
 			},
  lifeGoal: "I plan to one day build my own T.A.R.D.I.S."
 }
 ```
 
-<img src="https://c.tenor.com/MTC4UVT8qNcAAAAi/pusheen-playing.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://c.tenor.com/MTC4UVT8qNcAAAAi/pusheen-playing.gif" width="60"> <em><b>"Never accept the world as it appears to be, dare to see it for what it could be"</b> - Dr. Harold Winston</em>
 
 ---
