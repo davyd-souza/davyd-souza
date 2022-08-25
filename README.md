@@ -17,17 +17,17 @@
 
 ```javascript
 const dei = {
-  pronouns: "he" | "him",
-  programming: [ Typescript, Javascript ],
-  frontEnd: [ React, Angular, Bootstrap, HTML, CSS ],
-  backEnd: [ Node, Express, Docker, MongoDB, Firebase ],
-  personal: {
-				game: "Dungens and Dragons",
-				music: "Folk/Acoustic",
-				food: "Sushi",
-				drink: "Coffee"
-			},
- lifeGoal: "I plan to one day build my own T.A.R.D.I.S."
+    pronouns: "he" | "him",
+    programming: [ Typescript, Javascript ],
+    frontEnd: [ React, Angular, Bootstrap, HTML, CSS ],
+    backEnd: [ Node, Express, Docker, MongoDB, Firebase ],
+    personal: {
+                game: "Dungens and Dragons",
+                music: "Folk/Acoustic",
+                food: "Sushi",
+                drink: "Coffee"
+    },
+    lifeGoal: "I plan to one day build my own T.A.R.D.I.S."
 }
 ```
 
