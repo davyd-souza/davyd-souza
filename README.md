@@ -2,7 +2,6 @@
 
 <h2 align=""> Hi, I'm Davyd Souza! <img src="https://c.tenor.com/WX8OXgN5VpMAAAAj/waving-wave-hello.gif" width="45"></h2>
 
----
 <p>
 	A passionate fullstack developer from Brazil.</br>
 	Currently studying at Anhembi Morumbi.
@@ -32,5 +31,3 @@ const dei = {
 ```
 
 <img src="https://c.tenor.com/MTC4UVT8qNcAAAAi/pusheen-playing.gif" width="60"> <em><b>"Never accept the world as it appears to be, dare to see it for what it could be"</b> - Dr. Harold Winston</em>
-
----
