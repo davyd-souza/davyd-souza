@@ -18,7 +18,7 @@
 const dei = {
     pronouns: "he" | "him",
     programming: [ Typescript, Javascript ],
-    frontEnd: [ React, Angular, Bootstrap, HTML, CSS ],
+    frontEnd: [ React, Next, Tailwind, HTML, CSS ],
     backEnd: [ Node, Express, Docker, MongoDB, Firebase ],
     personal: {
                 game: "Dungens and Dragons",
